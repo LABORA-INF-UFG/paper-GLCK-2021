@@ -1,0 +1,129 @@
+{
+    "nodes": [
+        {
+            "nodeNumber": 1,
+            "cpu": 32,
+            "RU": 0
+        },
+        {
+            "nodeNumber": 2,
+            "cpu": 32,
+            "RU": 0
+        },
+        {
+            "nodeNumber": 3,
+            "cpu": 32,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 4,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 5,
+            "cpu": 8,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 6,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 7,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 8,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 9,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 10,
+            "cpu": 8,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 11,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 13,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 14,
+            "cpu": 8,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 15,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 16,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 17,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 18,
+            "cpu": 8,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 19,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 20,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 22,
+            "cpu": 8,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 23,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 24,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 25,
+            "cpu": 16,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 26,
+            "cpu": 8,
+            "RU": 1
+        },
+        {
+            "nodeNumber": 27,
+            "cpu": 16,
+            "RU": 1
+        }
+    ]
+}

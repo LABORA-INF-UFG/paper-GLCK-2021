@@ -1,0 +1,121 @@
+{
+    "DUs": [
+      {
+          "RU_number": 1,
+          "DU_node": 3,
+          "RU_node": 3
+      },
+      {
+          "RU_number": 2,
+          "DU_node": 2,
+          "RU_node": 4
+      },
+      {
+          "RU_number": 3,
+          "DU_node": 5,
+          "RU_node": 5
+      },
+      {
+          "RU_number": 4,
+          "DU_node": 1,
+          "RU_node": 6
+      },
+      {
+          "RU_number": 5,
+          "DU_node": 7,
+          "RU_node": 7
+      },
+      {
+          "RU_number": 6,
+          "DU_node": 4,
+          "RU_node": 8
+      },
+      {
+          "RU_number": 7,
+          "DU_node": 9,
+          "RU_node": 9
+      },
+      {
+          "RU_number": 8,
+          "DU_node": 2,
+          "RU_node": 10
+      },
+      {
+            "RU_number": 9,
+            "DU_node": 1,
+            "RU_node": 11
+      },
+      {
+          "RU_number": 10,
+          "DU_node": 12,
+          "RU_node": 12
+      },
+      {
+            "RU_number": 11,
+            "DU_node": 5,
+            "RU_node": 13
+      },
+      {
+          "RU_number": 12,
+          "DU_node": 14,
+          "RU_node": 14
+      },
+      {
+          "RU_number": 13,
+          "DU_node": 2,
+          "RU_node": 15
+      },
+      {
+          "RU_number": 14,
+          "DU_node": 7,
+          "RU_node": 16
+      },
+      {
+          "RU_number": 15,
+          "DU_node": 1,
+          "RU_node": 17
+      },
+      {
+          "RU_number": 16,
+          "DU_node": 18,
+          "RU_node": 18
+      },
+      {
+          "RU_number": 17,
+          "DU_node": 1,
+          "RU_node": 19
+      },
+      {
+          "RU_number": 18,
+          "DU_node": 20,
+          "RU_node": 20
+      },
+      {
+          "RU_number": 19,
+          "DU_node": 1,
+          "RU_node": 21
+      },
+      {
+          "RU_number": 20,
+          "DU_node": 5,
+          "RU_node": 22
+      },
+      {
+          "RU_number": 21,
+          "DU_node": 23,
+          "RU_node": 23
+      },
+      {
+          "RU_number": 22,
+          "DU_node": 6,
+          "RU_node": 24
+      },
+      {
+          "RU_number": 23,
+          "DU_node": 25,
+          "RU_node": 25
+      }
+
+    ]
+}
+
