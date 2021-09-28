@@ -3,6 +3,8 @@
 ## Description
 This repository aims to demonstrate the Multi-path functional Split and network function placement in virtualized RAN (*MuSt-RAN*) model implementation. We tested in Ubuntu Server 18.04 and Ubuntu 20.04, with Python 3.6.9, docplex 2.20.204 for implement the optimization model and IBM CPLEX version 12.8.0.
 
+- [Topologies](#topologies)
+
 ## Topologies
 
 In this work, we used two different types of topologies named as T1 and T2. The T1 topology is a ring based topology with two CRs positioned close to the Core in a centralized way, and the others 23 CRs are distributed as a ring based cluster where each one has an Radio Unit (RU). 
