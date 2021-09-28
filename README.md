@@ -11,6 +11,8 @@ The T2 topology is a hierarchical topology with two CRs positioned close to the 
 
 In both topologies the CRs are free to allocate different amounts of Virtualized Network Functions (VNF).  In other words, they are free to act as a Core Unite (CU) or/and a Distributed Unit (DU). Also, the numbers of CUs or DUs are dynamic, i. e., there is no fixed number of CUs or DUs in our model. 
 
+![topo_fig](https://github.com/LABORA-INF-UFG/paper-GLCK-2021/blob/main/figure_topology.png)
+
 ## Paths
 
 To calculate the routing paths of the topologies we used the k-shortest path algorithm. This algorithm are used to calculate a set of paths that will be used by the optimization model to solve the problem. Each path can be used with different configurations of allocation points, given that the paths reaches a set of CRs. In this case, we consider all the configurations available. 
