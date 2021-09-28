@@ -26,7 +26,7 @@ To calculate the routing paths of the topologies we used the k-shortest path alg
 
 In this work, we consider the flow split between the VNFs to reach better results to the Radio Access Network (RAN). With flow split we are capable to optimize the network data flow and the network resources usage. Also, the flow split strategy can improve the centralization level and the positioning of VNFs, i. e., improve the RAN quality and CRs usage. The improvements of using splittable flows are discussed with more details in the article.
 
-[SPLIT FLOW IMAGE]
+![flow_split_fig](https://github.com/LABORA-INF-UFG/paper-GLCK-2021/blob/main/git%20flow%20split.png)
 
 ## Final Results
 
