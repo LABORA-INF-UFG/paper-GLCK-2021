@@ -4,6 +4,9 @@
 This repository aims to demonstrate the Multi-path functional Split and network function placement in virtualized RAN (*MuSt-RAN*) model implementation. We tested in Ubuntu Server 18.04 and Ubuntu 20.04, with Python 3.6.9, docplex 2.20.204 for implement the optimization model and IBM CPLEX version 12.8.0.
 
 - [Topologies](#topologies)
+- [Paths](#paths)
+- [Splittable Flows](#splittable-flows)
+- [Final Results](#final-results)
 
 ## Topologies
 
