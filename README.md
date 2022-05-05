@@ -31,3 +31,17 @@ In this work, we consider the flow split between the VNFs to reach better result
 ## Final Results
 
 To see the final results, i. e., the optimal solution of each topology and/or the improvements of each scenario, we provide a set of charts that can be used to compare the optimal solutions of three different approaches. The scripts and solutions used to plot those charts are available in this repository.
+## Citation
+
+```
+@ARTICLE{morais-placeran:21,  
+    author={Almeida, Gabriel Matheus and Pinto, Leizer Lima and Both, Cristiano Bonato and Cardoso, Kleber},
+    journal={IEEE Wireless Communications Letters},   
+    title={Optimal joint functional split and network function placement in virtualized RAN with splittable flows},   
+    year={2022},  
+    volume={},  
+    number={},  
+    pages={1-1},  
+    doi={10.1109/LWC.2022.3172878}
+}
+```
