@@ -34,14 +34,13 @@ To see the final results, i. e., the optimal solution of each topology and/or th
 ## Citation
 
 ```
-@ARTICLE{almeida-must-ran:22,  
-    author={Almeida, Gabriel Matheus and Pinto, Leizer Lima and Both, Cristiano Bonato and Cardoso, Kleber},
-    journal={IEEE Wireless Communications Letters},   
-    title={Optimal joint functional split and network function placement in virtualized RAN with splittable flows},   
-    year={2022},  
-    volume={},  
-    number={},  
-    pages={1-1},  
-    doi={10.1109/LWC.2022.3172878}
-}
+@ARTICLE{9769698,
+  author={Almeida, Gabriel M. and Pinto, Leizer de L. and Both, Cristiano B. and Cardoso, Kleber V.},
+  journal={IEEE Wireless Communications Letters}, 
+  title={Optimal Joint Functional Split and Network Function Placement in Virtualized RAN With Splittable Flows}, 
+  year={2022},
+  volume={11},
+  number={8},
+  pages={1684-1688},
+  doi={10.1109/LWC.2022.3172878}}
 ```
